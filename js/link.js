@@ -12,7 +12,7 @@ let selectedProxy = null
 const defaultProxyUrl = "https://raw.githubusercontent.com/AFRcloud/ProxyList/refs/heads/main/ProxyList.txt"
 
 const serverDomains = [
-  "sirenn1.skibidicx.web.id",
+  "siren1.skibidicx.web.id",
   "siren2.skibidicx.web.id",
   "siren3.skibidicx.web.id",
   "siren4.skibidicx.web.id",
