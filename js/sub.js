@@ -2,7 +2,7 @@ const CONFIG = {
   'proxyListUrl': "https://raw.githubusercontent.com/AFRcloud/ProxyList/refs/heads/main/ProxyList.txt",
   'apiCheckUrl': "https://api.jb8fd7grgd.workers.dev/",
   'mainDomains': [
-    "siren1.skibidicx.web.id",
+    "sirenn1.skibidicx.web.id",
     "siren2.skibidicx.web.id",
     "siren3.skibidicx.web.id",
     "siren4.skibidicx.web.id",
