@@ -13,11 +13,6 @@ const defaultProxyUrl = "https://raw.githubusercontent.com/AFRcloud/ProxyList/re
 
 const serverDomains = [
   "z1.violette.biz.id"
-  "siren1.skibidicx.web.id",
-  "siren2.skibidicx.web.id",
-  "siren3.skibidicx.web.id",
-  "siren4.skibidicx.web.id",
-  "siren5.skibidicx.web.id"
 ]
 let selectedServerDomain = serverDomains[0] // Default to first domain
 const defaultUUID = "fccdaaae-af39-41a7-9fde-fd32a48278cf"
@@ -29,10 +24,28 @@ const pathTemplate = "/Free/{ip}-{port}"
 // Array of bug options for easy management
 const bugOptions = [
   { value: "", label: "Default" },
-  { value: "support.zoom.us", label: "ZOOM" },
+  { value: "support.zoom.us", label: "ZOOM WC" },
   { value: "zoomgov.com", label: "ZOOMGOV" },
-  { value: "ava.game.naver.com", label: "WLG" },
-  { value: "graph.instagram.com", label: "IG" }
+  { value: "collection.linefriends.com", label: "COLLECTION LINE WC" },
+  { value: "df.game.naver.com", label: "DF LINE WC" },
+  { value: "ava.game.naver.com", label: "AVA LINE WC" },
+  { value: "api24-normal.tiktokv.com", label: "TIKTOK WC1" },
+  { value: "api24-normal-useast1a.tiktokv.com", label: "TIKTOK WC2" },
+  { value: "api24-normal-alisg.tiktokv.com", label: "TIKTOK WC3" },
+  { value: "www.instagram.com", label: "IG SSL" },
+  { value: "www.pubgmobile.com", label: "PUBG SSL"},
+  { value: "www.arenaofvalor.com", label: "AOV SSL"},
+  { value: "www.freefiremobile.com", label: "FF SSL"},
+  { value: "www.garena.com", label: "AOV&FF WS"},
+  { value: "www.garena.co.id", label: "AOV&FF WS2"},
+  { value: "suporte.garena.com", label: "AOV&FF WS3"},
+  { value: "quiz.int.vidio.com", label: "VIDIO WC"},
+  { value: "investors.spotify.com", label: "SPOTIFY WC"},
+  { value: "partner.catchplay.com", label: "CATCHPLAY+ WC1"},
+  { value: "support-id.catchplay.com", label: "CATCHPLAY+ WC2"},
+  { value: "support-sg.catchplay.com", label: "CATCHPLAY+ WC3"},
+  { value: "support-tw.catchplay.com", label: "CATCHPLAY+ WC4"},
+  { value: "creativeservices.netflix.com", label: "NETFLIX WC"}
 ];
 
 
