@@ -12,7 +12,8 @@ let selectedProxy = null
 const defaultProxyUrl = "https://raw.githubusercontent.com/AFRcloud/ProxyList/refs/heads/main/ProxyList.txt"
 
 const serverDomains = [
-  "z1.violette.biz.id"
+  "z1.violette.biz.id",
+  "c4.rahmatkarburator.qzz.io"
 ]
 let selectedServerDomain = serverDomains[0] // Default to first domain
 const defaultUUID = "fccdaaae-af39-41a7-9fde-fd32a48278cf"
