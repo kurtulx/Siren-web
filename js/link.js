@@ -9,7 +9,7 @@ const QRCode = window.QRCode
 let proxyList = []
 let filteredProxyList = []
 let selectedProxy = null
-const defaultProxyUrl = "https://raw.githubusercontent.com/AFRcloud/ProxyList/refs/heads/main/ProxyList.txt"
+const defaultProxyUrl = "https://raw.githubusercontent.com/AFRcloud/ProxyList/refs/heads/main/ProxyList2.txt"
 
 const serverDomains = [
   "z1.violette.biz.id",
