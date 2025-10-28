@@ -1,9 +1,8 @@
 const CONFIG = {
-  'proxyListUrl': "https://raw.githubusercontent.com/AFRcloud/ProxyList/refs/heads/main/ProxyList.txt",
+  'proxyListUrl': "https://raw.githubusercontent.com/FoolVPN-ID/Nautica/refs/heads/main/proxyList.txt",
   'apiCheckUrl': "https://api.jb8fd7grgd.workers.dev/",
   'mainDomains': [
-    "z1.violette.biz.id",
-    "c4.rahmatkarburator.qzz.io"
+    "bahleel.agungdispenser.qzz.io"
   ],
   'defaultUuid': 'fccdaaae-af39-41a7-9fde-fd32a48278cf',
   'maxProxies': 0x32,
