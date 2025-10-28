@@ -9,11 +9,10 @@ const QRCode = window.QRCode
 let proxyList = []
 let filteredProxyList = []
 let selectedProxy = null
-const defaultProxyUrl = "https://raw.githubusercontent.com/AFRcloud/ProxyList/refs/heads/main/ProxyList2.txt"
+const defaultProxyUrl = "https://raw.githubusercontent.com/FoolVPN-ID/Nautica/refs/heads/main/proxyList.txt"
 
 const serverDomains = [
-  "z1.violette.biz.id",
-  "c4.rahmatkarburator.qzz.io"
+  "bahleel.agungdispenser.qzz.io"
 ]
 let selectedServerDomain = serverDomains[0] // Default to first domain
 const defaultUUID = "fccdaaae-af39-41a7-9fde-fd32a48278cf"
