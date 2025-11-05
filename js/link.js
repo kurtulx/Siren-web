@@ -13,7 +13,8 @@ const defaultProxyUrl = "https://raw.githubusercontent.com/FoolVPN-ID/Nautica/re
 
 const serverDomains = [
   "bahleel.agungdispenser.qzz.io",
-  "v7.skibidicx.web.id"
+  "x7.rahmatkarburator.qzz.io",
+  "z7.skibidicx.web.id"
 ]
 let selectedServerDomain = serverDomains[0] // Default to first domain
 const defaultUUID = "fccdaaae-af39-41a7-9fde-fd32a48278cf"
