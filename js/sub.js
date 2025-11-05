@@ -3,7 +3,8 @@ const CONFIG = {
   'apiCheckUrl': "https://api.jb8fd7grgd.workers.dev/",
   'mainDomains': [
     "bahleel.agungdispenser.qzz.io",
-    "v7.skibidicx.web.id"
+    "x7.rahmatkarburator.qzz.io",
+    "z7.skibidicx.web.id"
   ],
   'defaultUuid': 'fccdaaae-af39-41a7-9fde-fd32a48278cf',
   'maxProxies': 0x32,
