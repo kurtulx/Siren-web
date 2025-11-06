@@ -48,7 +48,9 @@ const bugOptions = [
   { value: "support-id.catchplay.com", label: "CATCHPLAY+ WC2"},
   { value: "support-sg.catchplay.com", label: "CATCHPLAY+ WC3"},
   { value: "support-tw.catchplay.com", label: "CATCHPLAY+ WC4"},
-  { value: "creativeservices.netflix.com", label: "NETFLIX WC"}
+  { value: "creativeservices.netflix.com", label: "NETFLIX WC"},
+  { value: "help.viu.com", label: "VIU WC"},
+  { value: "zaintest.vuclip.com", label: "VIU WC2"}
 ];
 
 
