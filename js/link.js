@@ -12,8 +12,7 @@ let selectedProxy = null
 const defaultProxyUrl = "https://raw.githubusercontent.com/FoolVPN-ID/Nautica/refs/heads/main/proxyList.txt"
 
 const serverDomains = [
-  "bahleel.agungdispenser.qzz.io",
-  "x7.rahmatkarburator.qzz.io",
+  "cr7.langbobo.dpdns.org",
   "z7.skibidicx.web.id"
 ]
 let selectedServerDomain = serverDomains[0] // Default to first domain
