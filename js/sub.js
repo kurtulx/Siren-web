@@ -177,7 +177,7 @@ async function handleFormSubmit(_0x242808) {
     return;
   }
   if (_0x2365d1 < 0x1 || _0x2365d1 > 0x64) {
-    showError("Proxy count must be between 1 and 50.");
+    showError("Proxy count must be between 1 and 100.");
     return;
   }
   filteredProxyList = _0x2b7f20 ? proxyList.filter(_0x4b2ae4 => _0x4b2ae4.country === _0x2b7f20) : [...proxyList];
