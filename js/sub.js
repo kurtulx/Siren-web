@@ -3,7 +3,7 @@ const CONFIG = {
   'apiCheckUrl': "https://api.jb8fd7grgd.workers.dev/",
   'mainDomains': [
     "cr7.langbobo.dpdns.org",
-    "z7.skibidicx.web.id"
+    "fufuf4f4.grgx2.dpdns.org"
   ],
   'defaultUuid': 'fccdaaae-af39-41a7-9fde-fd32a48278cf',
   'maxProxies': 0x32,
