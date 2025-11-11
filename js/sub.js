@@ -176,7 +176,7 @@ async function handleFormSubmit(_0x242808) {
     showError("Please enter a UUID.");
     return;
   }
-  if (_0x2365d1 < 0x1 || _0x2365d1 > 0x32) {
+  if (_0x2365d1 < 0x1 || _0x2365d1 > 0x64) {
     showError("Proxy count must be between 1 and 50.");
     return;
   }
