@@ -9,7 +9,7 @@ const QRCode = window.QRCode
 let proxyList = []
 let filteredProxyList = []
 let selectedProxy = null
-const defaultProxyUrl = "https://raw.githubusercontent.com/FoolVPN-ID/Nautica/refs/heads/main/proxyList.txt"
+const defaultProxyUrl = "https://raw.githubusercontent.com/afr0700/ProxyList/refs/heads/main/ProxyList.txt"
 
 const serverDomains = [
   "z7.skibidicx.web.id",
