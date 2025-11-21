@@ -2,8 +2,7 @@ const CONFIG = {
   'proxyListUrl': "https://raw.githubusercontent.com/FoolVPN-ID/Nautica/refs/heads/main/proxyList.txt",
   'apiCheckUrl': "https://api.jb8fd7grgd.workers.dev/",
   'mainDomains': [
-    "z7.skibidicx.web.id",
-    "fufuf4f4.grgx2.dpdns.org"
+    "v1.rahmatkarburator.qzz.io"
   ],
   'defaultUuid': 'fccdaaae-af39-41a7-9fde-fd32a48278cf',
   'maxProxies': 0x32,
