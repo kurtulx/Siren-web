@@ -12,8 +12,7 @@ let selectedProxy = null
 const defaultProxyUrl = "https://raw.githubusercontent.com/afr0700/ProxyList/refs/heads/main/ProxyList.txt"
 
 const serverDomains = [
-  "z7.skibidicx.web.id",
-  "fufuf4f4.grgx2.dpdns.org"
+  "v1.rahmatkarburator.qzz.io"
 ]
 let selectedServerDomain = serverDomains[0] // Default to first domain
 const defaultUUID = "fccdaaae-af39-41a7-9fde-fd32a48278cf"
