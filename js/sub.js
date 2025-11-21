@@ -1,6 +1,6 @@
 const CONFIG = {
   'proxyListUrl': "https://raw.githubusercontent.com/FoolVPN-ID/Nautica/refs/heads/main/proxyList.txt",
-  'apiCheckUrl': "https://api.jb8fd7grgd.workers.dev/",
+  'apiCheckUrl': "https://id1.foolvpn.me/api/v1/check?ip=",
   'mainDomains': [
     "v1.rahmatkarburator.qzz.io"
   ],
