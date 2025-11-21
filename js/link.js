@@ -705,7 +705,7 @@ function renderProxyList() {
     proxyListContainer.appendChild(card)
 
     // Check proxy status for this card
-    const statusURL = `https://api.jb8fd7grgd.workers.dev/${proxy.ip}:${proxy.port}`
+    const statusURL = `https://id1.foolvpn.me/api/v1/check?ip=${proxy.ip}:${proxy.port}`
 
     fetch(statusURL)
       .then((response) => response.json())
@@ -749,7 +749,7 @@ function renderProxyList() {
 
 // Function to check proxy status in the list
 function checkProxyStatusInList(proxy, statusBadge) {
-  const statusURL = `https://api.jb8fd7grgd.workers.dev/${proxy.ip}:${proxy.port}`
+  const statusURL = `https://id1.foolvpn.me/api/v1/check?ip=${proxy.ip}:${proxy.port}`
 
   fetch(statusURL)
     .then((response) => response.json())
