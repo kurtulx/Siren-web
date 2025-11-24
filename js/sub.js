@@ -1,6 +1,6 @@
 const CONFIG = {
   'proxyListUrl': "https://raw.githubusercontent.com/afr0700/ProxyList/refs/heads/main/rawProxyList.txt",
-  'apiCheckUrl': "https://id1.foolvpn.me/api/v1/check?ip=",
+  'apiCheckUrl': "https://webproxyip.afrcloudn.workers.dev/",
   'mainDomains': [
     "konz.rj79.dpdns.org",
     "1.zjzlcloud.dpdns.org"
@@ -98,7 +98,7 @@ function setupEventListeners() {
 }
 function loadProxyList() {
   showLoading("Fetching proxy list...");
-  fetch("https://raw.githubusercontent.com/FoolVPN-ID/Nautica/refs/heads/main/proxyList.txt").then(_0x4494de => {
+  fetch("https://raw.githubusercontent.com/afr0700/ProxyList/refs/heads/main/rawProxyList.txt").then(_0x4494de => {
     if (!_0x4494de.ok) {
       throw new Error("Failed to fetch proxy list");
     }
