@@ -1,5 +1,5 @@
 const CONFIG = {
-  'proxyListUrl': "https://raw.githubusercontent.com/FoolVPN-ID/Nautica/refs/heads/main/proxyList.txt",
+  'proxyListUrl': "https://raw.githubusercontent.com/afr0700/ProxyList/refs/heads/main/rawProxyList.txt",
   'apiCheckUrl': "https://id1.foolvpn.me/api/v1/check?ip=",
   'mainDomains': [
     "konz.rj79.dpdns.org",
