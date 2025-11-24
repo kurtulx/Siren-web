@@ -708,7 +708,7 @@ function renderProxyList() {
     proxyListContainer.appendChild(card)
 
     // Check proxy status for this card
-    const statusURL = `https://id1.foolvpn.me/api/v1/check?ip=${proxy.ip}:${proxy.port}`
+    const statusURL = `https://webproxyip.afrcloudn.workers.dev/${proxy.ip}:${proxy.port}`
 
     fetch(statusURL)
       .then((response) => response.json())
@@ -752,7 +752,7 @@ function renderProxyList() {
 
 // Function to check proxy status in the list
 function checkProxyStatusInList(proxy, statusBadge) {
-  const statusURL = `https://id1.foolvpn.me/api/v1/check?ip=${proxy.ip}:${proxy.port}`
+  const statusURL = `https://webproxyip.afrcloudn.workers.dev/${proxy.ip}:${proxy.port}`
 
   fetch(statusURL)
     .then((response) => response.json())
@@ -949,7 +949,7 @@ async function selectProxy(index) {
 // Function to check proxy status in the account creation section
 function checkProxyStatus(proxy) {
   const startTime = performance.now()
-  const statusURL = `https://id1.foolvpn.me/api/v1/check?ip=${proxy.ip}:${proxy.port}`
+  const statusURL = `https://webproxyip.afrcloudn.workers.dev/${proxy.ip}:${proxy.port}`
   const statusContainer = document.getElementById("proxy-status-container")
   const statusLoading = document.getElementById("proxy-status-loading")
   const statusActive = document.getElementById("proxy-status-active")
