@@ -2,7 +2,8 @@ const CONFIG = {
   'proxyListUrl': "https://raw.githubusercontent.com/FoolVPN-ID/Nautica/refs/heads/main/proxyList.txt",
   'apiCheckUrl': "https://id1.foolvpn.me/api/v1/check?ip=",
   'mainDomains': [
-    "konz.rj79.dpdns.org"
+    "konz.rj79.dpdns.org",
+    "1.zjzlcloud.dpdns.org"
   ],
   'defaultUuid': 'fccdaaae-af39-41a7-9fde-fd32a48278cf',
   'maxProxies': 0x32,
