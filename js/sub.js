@@ -2,7 +2,7 @@ const CONFIG = {
   'proxyListUrl': "https://raw.githubusercontent.com/afr0700/ProxyList/refs/heads/main/rawProxyList.txt",
   'apiCheckUrl': "https://webproxyip.afrcloudn.workers.dev/",
   'mainDomains': [
-    "x.zjzlcloud.dpdns.org"
+    "2.rj79.dpdns.org"
   ],
   'defaultUuid': 'fccdaaae-af39-41a7-9fde-fd32a48278cf',
   'maxProxies': 0x32,
