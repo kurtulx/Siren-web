@@ -12,7 +12,7 @@ let selectedProxy = null
 const defaultProxyUrl = "https://raw.githubusercontent.com/afr0700/ProxyList/refs/heads/main/rawProxyList.txt"
 
 const serverDomains = [
-  "x1.knx.qzz.io",
+  "x1.eula.qzz.io",
   "x1.gonmc.qzz.io"
 ]
 let selectedServerDomain = serverDomains[0] // Default to first domain
