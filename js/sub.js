@@ -2,7 +2,8 @@ const CONFIG = {
   'proxyListUrl': "https://raw.githubusercontent.com/afr0700/ProxyList/refs/heads/main/rawProxyList.txt",
   'apiCheckUrl': "https://webproxyip.afrcloudn.workers.dev/",
   'mainDomains': [
-    "x1.vulpisluna.qzz.io"
+    "x1.eula.qzz.io",
+    "x1.gonmc.qzz.io"
   ],
   'defaultUuid': 'fccdaaae-af39-41a7-9fde-fd32a48278cf',
   'maxProxies': 0x32,
