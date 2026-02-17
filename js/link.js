@@ -12,7 +12,7 @@ let selectedProxy = null
 const defaultProxyUrl = "https://raw.githubusercontent.com/afr0700/ProxyList/refs/heads/main/rawProxyList.txt"
 
 const serverDomains = [
-  "x1.gamerop.qzz.io"
+  "x1.badmoos.qzz.io"
 ]
 let selectedServerDomain = serverDomains[0] // Default to first domain
 const defaultUUID = "fccdaaae-af39-41a7-9fde-fd32a48278cf"
